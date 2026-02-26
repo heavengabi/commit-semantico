@@ -1,12 +1,12 @@
-function somar(num1, num2)
+function somando(a, b)
 {
-    return num1+num2;
+    return a+b;
 }
 
 console.log(somar(24,5));
 
-function subtrair(num3,num4)
+function subtraindo(c,d)
 {
-    return num3-num4;
+    return c - d;
 }
 console.log(22,4);
